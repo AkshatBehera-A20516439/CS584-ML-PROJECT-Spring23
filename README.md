@@ -21,4 +21,4 @@ The Project contains two different jupyter notebooks implemented for each datase
 
 1. **Akshat Behera** : Responsible for Unsupervised Learning Models (Neural Network (MLP Classifier), CNN, RCNN) and a Supervised Model - (Random Forest) Implementation along with Feature Selection and EDA Implementations.
 
-2. **Nagarjuna Bolla** : Responsible for Supervised Learning Models (Logistic Regression, Decision Tree, SVM, XGBoost) Implementation and Data-Preprocessing.
+2. **Nagarjuna Bolla** : Responsible for Supervised Learning Models (Logistic Regression, Decision Tree, SVM, XGBoost) Implementation and Data-Preprocessing(Data Cleaning, Encoding and Standardization).
