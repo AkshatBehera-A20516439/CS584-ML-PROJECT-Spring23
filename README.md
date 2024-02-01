@@ -17,7 +17,7 @@ Both of the Python notebooks of the project source code were run primarily on th
 
 The Project contains two different jupyter notebooks implemented for each dataset i.e., Training and Testing Dataset, Which Can Be Implemented in a Single file, But due of GPU and CPU constraints, and also for making it more easier to implement. It has been split into two different notebooks.
 
-## Collaborators
+## Collaborators:
 
 1. **Akshat Behera** : Responsible for Unsupervised Learning Models (Neural Network (using MLP Classifier), CNN, RCNN) and a Supervised Model - (Random Forest) Implementation along with Feature Selection and EDA Implementations.
 
